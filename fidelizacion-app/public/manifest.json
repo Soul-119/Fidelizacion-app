@@ -1,0 +1,23 @@
+{
+  "name": "App de Fidelización",
+  "short_name": "Fidelización",
+  "description": "Aplicación de fidelización con clientes, premios y beneficios.",
+  "start_url": "/login",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#ffffff",
+  "theme_color": "#0d6efd",
+  "icons": [
+    {
+      "src": "/icons/google-128.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/icons/google-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
